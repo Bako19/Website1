@@ -71,7 +71,7 @@
 }
 
 ::-webkit-scrollbar-track {
-    background-color: #574d33
+    background-color: black
 }
 
 ::-webkit-scrollbar-thumb {
@@ -149,12 +149,12 @@ ul.timeline:before {
 
 li.timeline-item {
     margin: 20px 0;
-    background-color: #8c753c;
+    background-color: #333331;
 }
 
 .timeline-arrow {
     border-top: 0.5rem solid transparent;
-    border-right: 0.5rem solid #8c753c;
+    border-right: 0.5rem solid #333331;
     border-bottom: 0.5rem solid transparent;
     display: block;
     position: absolute;
@@ -177,7 +177,7 @@ li.timeline-item::before {
 
 
 body {
-    background-color: #574d33;
+    background-color: black;
     min-height: 100vh;
 }
 
